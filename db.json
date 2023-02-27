@@ -1,32 +1,17 @@
 {
-  "posts": [
+  "boards": [
     {
       "id": 1,
-      "title": "Hello world",
-      "body": "Lorem ispum bla bla bla",
-      "userId": 1
+      "title": "first board"
     },
     {
       "id": 2,
-      "title": "Hello another world",
-      "body": "Another Lorem ispum bla bla bla",
-      "userId": 2
+      "title": "second board"
     },
     {
-      "id": 3,
-      "title": "Hello another world",
-      "body": "Another Lorem ispum bla bla bla",
-      "userId": 2
+      "id": 1677499124402,
+      "title": "third board"
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "name": "user1"
-    },
-    {
-      "id": 2,
-      "name": "user2"
-    }
-  ]
+  "cards": []
 }
